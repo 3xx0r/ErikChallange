@@ -1,0 +1,46 @@
+.bkgrnd{
+	background-image: url('https://media.giphy.com/media/8fRwPZtbWkkX6/giphy.gif');
+	background-size: cover;
+}
+
+
+.mylesHardy{
+	position: relative;
+	bottom: 230px;
+	left: 223px;
+  
+  color: white
+ 
+}
+
+.mainDiv{
+  position: relative;
+  left: 350px;
+
+  
+}
+
+.fsociety{
+
+}
+
+.sideText1{
+	position: relative;
+	color: white;
+	left: 650px;
+	bottom: 320px;
+	font-size: 20px;
+}
+
+.ftrpic{
+	position: relative;
+	left: 650px;
+
+}
+
+.finalTxt{
+	position: relative;
+	color: white;
+	bottom: 570px;
+
+}
